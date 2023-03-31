@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #000000;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola {
+    height: 400px;
+    background-image: linear-gradient(180deg, black, white);
+}
+
+.futebolimg{
+    width: 200px;
+}
+
+.escolatitulo{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.escolatexto_um{
+    color: white;
+    text-align: center;
+}
